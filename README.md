@@ -1,5 +1,6 @@
 # ui-imageslider
 
+# index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -33,6 +34,9 @@
       </div>
 </body>
 </html>
+```
+
+# mystyle.css
 
 ```
 * {
